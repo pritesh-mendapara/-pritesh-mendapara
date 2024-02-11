@@ -19,22 +19,19 @@ I'm a React.js developer with a strong passion for frontend development. I enjoy
 
 ### 🌱 Currently Learning
 
-I'm currently diving deeper into [mention any technology or skill you're currently learning], aiming to broaden my skill set and stay updated with the latest trends in frontend development.
+I'm currently diving deeper into [Redux, Redux Toolkit, Node Js], aiming to broaden my skill set and stay updated with the latest trends in frontend development.
 
 ### 🔨 Projects
 
 Here are a few projects I've worked on:
 
-- [Project 1](link-to-project) - Brief description
-- [Project 2](link-to-project) - Brief description
-- [Project 3](link-to-project) - Brief description
+- [Poslic](http://demo.iroidsolutions.com:4004/)
+- [pepe](http://demo.iroidsolutions.com:4074/)
 
 ### 📫 Connect with Me
 
-- [Portfolio](your-portfolio-link)
-- [LinkedIn](your-linkedin-profile)
-- [Twitter](your-twitter-profile)
-- [GitHub](your-github-profile)
+- [LinkedIn](https://www.linkedin.com/in/pritesh-mendapara-4b841a244/)
+- [GitHub](https://github.com/pritesh-mendapara)
 
 Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to connect!
 
