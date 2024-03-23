@@ -25,7 +25,7 @@ I'm currently diving deeper into [Redux, Redux Toolkit, Node Js], aiming to broa
 
 Here are a few projects I've worked on:
 
-- [Poslic](http://demo.iroidsolutions.com:4004/)
+- [Poslic](https://poslic.rs/)
 - [pepe](https://getpepe.app/)
 
 ### 📫 Connect with Me
